@@ -24,7 +24,9 @@
 + SQL 하룻데엔새싹 범 무서운 줄 모른다 시리즈 블로깅(2023.06.04~)
 
   https://github.com/llcodingll/BasicSQL_bloging
-+ SQL 데이터베이스 스터디(2023.06~)
++ MySQL 데이터베이스 미니 프로젝트(2023.08~2023.09)
++ 유통/판매데이터분석 프로젝트 과제(2023.11~)
++ Web사이트 제작 과제(2023.11~)
   
 
 ---
@@ -42,10 +44,8 @@
 
 ---
 > 해야 할 공부🎯
-+ SQL
 + Python
 + Java
-+ MySQL
 + NoSQL
 + AWS
 + Spring Framework
@@ -58,10 +58,10 @@
 ---
              
 ## Study
-+ 추후 수정
++ MySQL Database Study(2023.06~2023.09)
 
 ## certificate📝
-+ 추후 수정
++ Toeic Speaking Lv.6
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
