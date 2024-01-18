@@ -69,6 +69,7 @@
 ## certificate📝
 + Toeic Speaking Lv.6
 
+<a href="https://github.com/llcodingll"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=llcodingll&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="YoonJi's github stats" /></a>
 
 
 
