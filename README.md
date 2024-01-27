@@ -72,7 +72,7 @@
 
 <a href="https://github.com/llcodingll"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=llcodingll&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="YoonJi's github stats"/></a>
 <a href="https://github.com/llcodingll"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llcodingll&layout=compact&theme=nord&hide_border=true"/></a> 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=llcodingll)](https://solved.ac/llcodingll/)
 
 
 - 🔭 I’m currently working on ...
