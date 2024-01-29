@@ -22,7 +22,7 @@
   > + 웹프로그래밍
   > + 유통/판매데이터분석(종합설계)
   
-+ 동아대학교 **IT 취업 동아리** 활동(2023.05.25~)
++ 동아대학교 **AWS mentorship IT Club** 활동(2023.05.25~)
 + SQL 하룻데엔새싹 범 무서운 줄 모른다 시리즈 블로깅(2023.06.04~)
 
   https://github.com/llcodingll/BasicSQL_bloging
