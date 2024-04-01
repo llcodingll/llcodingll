@@ -30,6 +30,9 @@
 + 유통/판매데이터분석 프로젝트 과제(2023.11~2023.12)
 + Web사이트 제작 과제(2023.11~2023.12)
 + AWS Academy Cloud class(2023.12~2024.02)
++ Past-Forward 프로젝트(백엔드)
+
+  https://github.com/llcodingll/past-foward-backend
   
 
 ---
