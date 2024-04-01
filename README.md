@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=210&section=header&text=Hi!%20I'm%20윤지😼&fontSize=52)
@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/young93157/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/young93157/"/></a>&nbsp
 
 ---
-### **Data Engeneer** 취준생💪
+### 💪 **Data Engeneer** 취준생
 + 동아대학교 사회학과, 경영정보학과 복수전공ing
   > + 데이터베이스시스템
   > + 데이터베이스 구축 및 활용
@@ -33,7 +33,7 @@
   
 
 ---
-## Skills💡
+## 💡 Skills
 > 한 번이라도 다뤄본 기술
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=navy"/>
@@ -49,25 +49,14 @@
 </p>
 
 ---
-> 해야 할 공부🎯
-+ Python
-+ Java
-+ NoSQL
-+ AWS
-+ Spring Framework
-+ Spark
-+ Kafka
-+ Scala
-+ Hadoop
-+ Linux
-+ Backend
+
 ---
              
-## Study
+## 🎯 Study
 + MySQL Database Study(2023.06~2023.09)
 + Spring Study(2024.02~ )
 
-## certificate📝
+## 📝 certificate
 + Toeic Speaking Lv.6
 ---
 
