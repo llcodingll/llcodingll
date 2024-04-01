@@ -56,7 +56,7 @@
 + MySQL Database Study(2023.06~2023.09)
 + Spring Study(2024.02~ )
 
-## 📝 certificate
+## 📝 Certificate
 + Toeic Speaking Lv.6
 ---
 
