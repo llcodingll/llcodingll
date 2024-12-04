@@ -32,11 +32,9 @@
 
 - 
 
-
 ---
 ## 💡 Skills
 <p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=blue"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -44,18 +42,26 @@
   <img src="https://img.shields.io/badge/tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=flat-square&logo=Apache Kafka&logoColor=white">
 </p>
-
----
 
 ---
 ## ⚡Projects
 + Past-Forward 프로젝트(백엔드)
 
   https://github.com/llcodingll/past-foward-backend
+
++ Repick 프로젝트(백엔드)
+  
+  https://github.com/The-Naeun-Economy/comment
+  
+  https://github.com/The-Naeun-Economy/community
 ---
 
-### 💪 **Data Engeneer** 취준생
+### 💪 **Backend** 취준생
 + 동아대학교 사회학과, 경영정보학과 복수전공
   > + 데이터베이스시스템
   > + 데이터베이스 구축 및 활용
@@ -73,7 +79,7 @@
 + AWS Academy Cloud class(2023.12~2024.02)
 
 ---
-             
+
 ## 🎯 Study
 + MySQL Database Study(2023.06~2023.09)
 + Spring Study(2024.02 ~ 03)
