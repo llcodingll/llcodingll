@@ -71,7 +71,7 @@
   - 댓글/게시글 좋아요 API 설계 및 구현(feat. REDIS cache)
   - 게시글 조회수 API 설계 및 구현(feat. REDIS cache)
   - 댓글 생성, 삭제 시 게시글에 댓글수 집계 로직 설계 및 구현(feat. KAFKA)
-  - 알림 기능 구현 중...
+  - 알림 기능 구현 중...(feat. KAFKA + Long Polling)
 
 ---
 
