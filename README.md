@@ -52,11 +52,22 @@
 
   https://github.com/llcodingll/past-foward-backend
 
+  - 댓글 API 설계 및 구현
+  - 회고 그룹화 API 설계 및 구현
+  
+
 + Repick 프로젝트(백엔드)
   
   https://github.com/The-Naeun-Economy/comment
   
   https://github.com/The-Naeun-Economy/community
+
+  - 댓글/게시글 API 설계 및 구현
+    - 게시글 카테고리별 조회(feat. QueryDSL)
+  - 댓글/게시글 좋아요 API 설계 및 구현(feat. REDIS cache)
+  - 게시글 조회수 API 설계 및 구현(feat. REDIS cache)
+  - 댓글 생성, 삭제 시 게시글에 댓글수 집계 로직 설계 및 구현(feat. KAFKA)
+
 ---
 
 ### 💪 **Backend** 취준생
