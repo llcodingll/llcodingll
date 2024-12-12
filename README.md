@@ -48,7 +48,7 @@
 
 ---
 ## ⚡Projects
-+ Past-Forward 프로젝트(백엔드)
+### Past-Forward 프로젝트(백엔드)
 
   https://github.com/llcodingll/past-foward-backend
 
@@ -56,7 +56,7 @@
   - 회고 그룹화 API 설계 및 구현
   
 
-+ Repick 프로젝트(백엔드)
+### Repick 프로젝트(백엔드)
   
   https://github.com/The-Naeun-Economy/comment
   
