@@ -91,6 +91,8 @@
 + Web사이트 제작 과제(2023.11~2023.12)
 + AWS Academy Cloud class(2023.12~2024.02)
 + [KDT] HK X Toss Bank 풀스택 과정 1기(2024.06.24~2024.12.19)
+  > + 운영체제
+  > + JAVA, SPRING
 
 ---
 
