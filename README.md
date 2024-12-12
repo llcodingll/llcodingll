@@ -72,7 +72,7 @@
   > + 게시글 조회수 API 설계 및 구현(feat. REDIS cache)
   > + 댓글 생성, 삭제 시 게시글에 댓글수 집계 로직 설계 및 구현(feat. KAFKA)
   > + 알림 기능 구현 중...(feat. KAFKA + Long Polling)
->   + 고민한 사항([Repick 구현 시, 고려한 점](https://judicious-wanderer-a31.notion.site/1386a7822a40805e8037d0e90f24ba61?pvs=4))
+>   + 고민한 사항([💭Repick 구현 시, 고려한 점](https://judicious-wanderer-a31.notion.site/1386a7822a40805e8037d0e90f24ba61?pvs=4))
 
 ---
 
