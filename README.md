@@ -53,6 +53,7 @@
 ---
 ## ⚡Projects
 ### Past-Forward 프로젝트(백엔드)
+: 회고 입문자를 위한 회고 웹 애플리케이션 사이트
 
   https://github.com/llcodingll/past-foward-backend
 
@@ -61,6 +62,7 @@
   
 
 ### Repick 프로젝트(백엔드)
+: 챗봇 기반 금융 뉴스/리포트 요약 웹 애플리케이션 사이트
   
   https://github.com/The-Naeun-Economy/comment
   
