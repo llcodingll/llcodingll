@@ -59,6 +59,7 @@
 
   > + 댓글 API 설계 및 구현
   > + 회고 그룹화 API 설계 및 구현
+>   + Serverless 마이그레이션 2025.01~Present
   
 
 ### Repick 프로젝트(백엔드)
