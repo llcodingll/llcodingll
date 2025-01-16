@@ -60,6 +60,7 @@
   > + 댓글 API 설계 및 구현
   > + 회고 그룹화 API 설계 및 구현
   > + Serverless 마이그레이션 2025.01~Present
+  >   + [💭AWS Lambda, 공부하는 중인 부분](https://judicious-wanderer-a31.notion.site/Migration-planning-Past-Forward-Pjt-17b6a7822a4080179069e996770eb1bd)
   
 
 ### Repick 프로젝트(백엔드)
