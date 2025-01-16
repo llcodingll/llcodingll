@@ -97,6 +97,7 @@
 + [KDT] HK X Toss Bank 풀스택 과정 1기(2024.06.24~2024.12.19)
   > + 운영체제
   > + JAVA, SPRING
++ SSAFY 13기(2025.01.07~Present)
 
 ---
 
