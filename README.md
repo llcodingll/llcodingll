@@ -20,7 +20,7 @@
 ### 🌐 Channel
 🐱 **GitHub**: [https://github.com/llcodingll](https://github.com/llcodingll)  
 📚 **Blog**: [https://ll-llwhkr.tistory.com/](https://ll-llwhkr.tistory.com/)  
-🌐 **LinkedIn**: [https://www.linkedin.com/in/yoonji-yoo-877713286/](https://www.linkedin.com/in/yoonji-yoo-877713286/)
+🌏 **LinkedIn**: [https://www.linkedin.com/in/yoonji-yoo-877713286/](https://www.linkedin.com/in/yoonji-yoo-877713286/)
 
 </div>
 
