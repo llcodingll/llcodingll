@@ -8,7 +8,7 @@
 <h1 align="center">유윤지 | Yoonji Yoo</h1>
 
 <p align="center">
-  <a href="mailto:ll.o.llwhkr@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ll.o.llwhkr@gmail.com"/></a>&nbsp
+  <a href="mailto:yooyoonji1121@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ll.o.llwhkr@gmail.com"/></a>&nbsp
   <a href="https://ll-llwhkr.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ll-llwhkr.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/young93157/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/young93157/"/></a>&nbsp
 
