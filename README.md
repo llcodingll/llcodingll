@@ -15,7 +15,7 @@
 <div align="center">
 
 ### 📞 Contact
-**E-mail**: ll.o.llwhkr@gmail.com
+**E-mail**: yooyoonji1121@gmail.com
 
 ### 🌐 Channel
 🐱 **GitHub**: [https://github.com/llcodingll](https://github.com/llcodingll)  
