@@ -78,6 +78,17 @@
   > + 댓글 생성, 삭제 시 게시글에 댓글수 집계 로직 설계 및 구현(feat. Kafka)
   > + 알림 기능 설계 및 구현(feat. Kafka + Long Polling)
 
+
+### Myro 프로젝트(~ing)
+: AI 연동 일정 관리 웹 어플리케이션
+
+  https://github.com/llcodingll/Schedule_Back/tree/master
+
+  > + 회원가입/로그인
+  >    - JWT 기반
+  > + 일정 API 설계 및 구현
+  > + 알림 기능 설계 및 구현
+  > + AI 추천 및 분석
 ---
 
 ### 💪 **Backend** 취준생
