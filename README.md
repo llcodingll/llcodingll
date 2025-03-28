@@ -82,7 +82,7 @@
 ### Myro 프로젝트(~ing)
 : AI 연동 일정 관리 웹 어플리케이션
 
-  https://github.com/llcodingll/Schedule_Back/tree/master
+  https://github.com/llcodingll/Myro_Back
 
   > + 회원가입/로그인
   >    - JWT 기반
