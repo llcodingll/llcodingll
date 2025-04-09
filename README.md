@@ -104,6 +104,8 @@
   > + 운영체제
   > + JAVA, SPRING
 + SSAFY 13기(2025.01.07~Present)
+  > + 알고리즘
+  > + JAVA, SPRING
 
 ---
 
