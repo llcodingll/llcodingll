@@ -9,8 +9,6 @@
 
 <p align="center">
   <a href="mailto:yooyoonji1121@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yooyoonji1121@gmail.com"/></a>&nbsp
-  <a href="https://www.instagram.com/young93157/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/young93157/"/></a>&nbsp
-
 <div align="center">
 
 ### 📞 Contact
