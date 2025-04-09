@@ -65,8 +65,6 @@
   
   https://github.com/The-Naeun-Economy/community
 
-  - [💭Repick 구현 시, 고려한 점](https://judicious-wanderer-a31.notion.site/1386a7822a40805e8037d0e90f24ba61?pvs=4)
-
   > + 댓글/게시글 API 설계 및 구현
   >   - 게시글 카테고리별 조회(feat. QueryDSL)
   > + 댓글/게시글 좋아요 API 설계 및 구현(feat. Redis cache)
