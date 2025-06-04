@@ -88,8 +88,10 @@
 ### Wikey 프로젝트(~ing)
 : 입문자를 위한 위스키 추천 웹 어플리케이션
 
-  https://github.com/llcodingll/Wikey_front
+  https://github.com/llcodingll/Wikey_front <br/>
   https://github.com/llcodingll/Wikey_back
+
+  > + 
 ---
 
 ### 💪 **Backend** 취준생
