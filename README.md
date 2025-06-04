@@ -83,6 +83,13 @@
   > + 일정 API 설계 및 구현
   > + 알림 기능 설계 및 구현
   > + AI 추천 및 분석
+
+
+### Wikey 프로젝트(~ing)
+: 입문자를 위한 위스키 추천 웹 어플리케이션
+
+  https://github.com/llcodingll/Wikey_front
+  https://github.com/llcodingll/Wikey_back
 ---
 
 ### 💪 **Backend** 취준생
