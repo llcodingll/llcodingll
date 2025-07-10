@@ -15,7 +15,9 @@
 **E-mail**: yooyoonji1121@gmail.com
 
 ### 🌐 Channel
-📚 **Blog**: [https://ll-llwhkr.tistory.com/](https://ll-llwhkr.tistory.com/)  
+📚 **Blog**
+- [https://ll-llwhkr.tistory.com/](https://ll-llwhkr.tistory.com/)
+- [https://velog.io/@yj8080/posts](https://velog.io/@yj8080/posts)
 🌏 **LinkedIn**: [https://www.linkedin.com/in/yoonji-yoo-877713286/](https://www.linkedin.com/in/yoonji-yoo-877713286/)
 
 </div>
